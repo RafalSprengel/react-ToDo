@@ -1,5 +1,5 @@
 ## General info
-Simply application where you can add new tasks, mark them as priority, delete
+ToDo is a task management app to help you stay organized and manage your day-to-day. You can use the App to make shopping lists or task lists, plan an event and focus on what matters to you. ToDo app makes it easy to stay organized and manage your life.
 
 ## Features:
 * Adding new tasks.
